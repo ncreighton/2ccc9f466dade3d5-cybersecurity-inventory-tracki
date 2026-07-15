@@ -1,2 +1,28 @@
-# 2ccc9f466dade3d5-cybersecurity-inventory-tracki
-What if have the information you need right in your browser took minutes instead of hours?  Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Cybersecurity Inventory Tracking And Alerts — fully configured and ready to use - One-click activation directl
+# Cybersecurity Inventory Tracking and Alerts System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oUbJ126He2M2hi9rKcZM1u)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oUbJ126He2M2hi9rKcZM1u)
+
